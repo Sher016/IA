@@ -1,7 +1,8 @@
 # IA
 ## Miembros
 - Sherlyn Andrea Guzman Graciano - 1007869053
-- Mariana Alvarez Yarce 
+- Mariana Alvarez Yarce
+  
 Estudiantes de BIOINGENIERIA
 
  ## Resumen
