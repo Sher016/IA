@@ -12,4 +12,6 @@ La mayoría de las enfermedades cardiovasculares se pueden prevenir abordando fa
 El dataset utilizado en éste proyecto fue tomado de :https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data.
 
 
- 
+-IMPORTANTE:
+Antes de correr éste codigo en colab, al ser un dataset de Kagel este necesitara una autentificación, mediante un token que puede ser descargado desde el propio Kagel siguiendo el siguiente tutorial: https://www.kaggle.com/docs/api, específicamente en la parte de "Authentication". Después de esto se corre la parte de código índicada en el archivo.
+
