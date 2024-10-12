@@ -1,6 +1,7 @@
 # IA
 ## Miembros
 - Sherlyn Andrea Guzman Graciano - 1007869053
+  
 Video: https://youtu.be/Uo1ginn8FY4?si=w0IrUfNV8dToqRDO 
 Estudiantes de BIOINGENIERIA
 
