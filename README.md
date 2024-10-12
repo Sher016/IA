@@ -1,9 +1,9 @@
 # IA
 ## Miembros
 - Sherlyn Andrea Guzman Graciano - 1007869053
-  
+- Estudiantee de BIOINGENIERIA
 Video: https://youtu.be/Uo1ginn8FY4?si=w0IrUfNV8dToqRDO 
-Estudiantes de BIOINGENIERIA
+
 
  ## Resumen
 Las Pruebas Saber Pro son exámenes estandarizados que se administran en Colombia para evaluar la calidad y el nivel de conocimiento y competencias de los estudiantes de educación superior, es decir, de instituciones de educación superior como universidades y tecnológicos. Estas pruebas son parte de los esfuerzos del Gobierno de Colombia para monitorear y mejorar la calidad de la educación superior en el país.
