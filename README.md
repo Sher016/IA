@@ -1,8 +1,9 @@
 # IA
 ## Miembros
 - Sherlyn Andrea Guzman Graciano - 1007869053
-- Estudiantee de BIOINGENIERIA
-- Video: https://youtu.be/Uo1ginn8FY4?si=w0IrUfNV8dToqRDO 
+- Andrés Banquez Cabarcas - 
+- Estudiante de BIOINGENIERIA
+- Video entrega 2: https://youtu.be/Uo1ginn8FY4?si=w0IrUfNV8dToqRDO 
 
 
  ## Resumen
