@@ -1,7 +1,7 @@
 # IA
 ## Miembros
 - Sherlyn Andrea Guzman Graciano - 1007869053
-- Andrés Banquez Cabarcas - 
+- Andrés Banquez Cabarcas - 1001021432
 - Estudiante de BIOINGENIERIA
 - Video entrega 2: https://youtu.be/Uo1ginn8FY4?si=w0IrUfNV8dToqRDO 
 
